@@ -1,9 +1,16 @@
 # Course Project -- American Epilepsy Society Seizure Prediction Challenge
 
 
-## Overview
+## Question
+The goal of the competition is to demonstrate the existence and accurate classification of the preictal brain state in dogs and humans with naturally occurring epilepsy.
 
-[American Epilepsy Society Seizure Prediction Challenge](http://www.kaggle.com/c/seizure-prediction)
+## Kaggle Link
+[Kaggle - Seizure Prediction Challenge](http://www.kaggle.com/c/seizure-prediction)
+
+
+## Data as described @ Kaggle
+
+[Siezure Data](http://www.kaggle.com/c/seizure-prediction/data)
 
 
 ## Project Deliverables
@@ -20,5 +27,4 @@
 
 
 
-## Milestones
 
