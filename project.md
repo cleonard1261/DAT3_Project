@@ -17,7 +17,29 @@ The goal of the competition is to demonstrate the existence and accurate classif
 * preictal_segment_n.mat - the nth preictal training data segment
 * interictal_segment_n.mat - the nth non-seizure training data segment
 * test_segment_n.mat - the nth testing data segment
+* 
 
+### Directory Structure
+
+```
+├── data/
+│   ├── Dog_1
+│   │   ├── preictal_segment_0001.mat
+│   │   ├── interictal_segment_0001.mat
+│   │   ├── test_segment_0001.mat
+|   |   ├── [...] 
+│   │   ├── preictal_segment_N.mat
+│   │   ├── interictal_segment_N.mat
+│   │   ├── test_segment_N.mat
+│   ├── Dog_2
+│   │   ├── preictal_segment_0001.mat
+│   │   ├── interictal_segment_0001.mat
+│   │   ├── test_segment_0001.mat
+|   |   ├── [...] 
+│   │   ├── preictal_segment_N.mat
+│   │   ├── interictal_segment_N.mat
+│   │   ├── test_segment_N.mat
+```
 NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 
 
