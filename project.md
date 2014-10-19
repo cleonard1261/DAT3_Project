@@ -17,7 +17,8 @@ The goal of the competition is to demonstrate the existence and accurate classif
 * preictal_segment_n.mat - the nth preictal training data segment
 * interictal_segment_n.mat - the nth non-seizure training data segment
 * test_segment_n.mat - the nth testing data segment
-* 
+
+NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 
 ### Directory Structure
 
@@ -40,7 +41,7 @@ The goal of the competition is to demonstrate the existence and accurate classif
 │   │   ├── interictal_segment_N.mat
 │   │   ├── test_segment_N.mat
 ```
-NOTE: where n goes from 0 to N  ==> N is the total number of data segments
+
 
 
 
