@@ -23,7 +23,7 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 ### Directory Structure
 
 ```
-├── data/
+├── PROJECT_DIR/data/
 │   ├── Dog_1
 │   │   ├── preictal_segment_0001.mat
 │   │   ├── interictal_segment_0001.mat
