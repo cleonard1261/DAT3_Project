@@ -12,6 +12,15 @@ The goal of the competition is to demonstrate the existence and accurate classif
 
 [Siezure Data](http://www.kaggle.com/c/seizure-prediction/data)
 
+### Data Dictionary
+
+* preictal_segment_n.mat - the nth preictal training data segment
+* interictal_segment_n.mat - the nth non-seizure training data segment
+* test_segment_n.mat - the nth testing data segment
+
+NOTE: where n goes from 0 to N  ==> N is the total number of data segments
+
+
 
 ## Project Deliverables
 
