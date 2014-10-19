@@ -1,4 +1,4 @@
-# Course Project -- 
+# Course Project -- American Epilepsy Society Seizure Prediction Challenge
 
 
 ## Overview
