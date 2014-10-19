@@ -12,7 +12,17 @@ The goal of the competition is to demonstrate the existence and accurate classif
 
 [Siezure Data](http://www.kaggle.com/c/seizure-prediction/data)
 
-### Data Dictionary
+## Data Dictionary
+
+| Fields               | Description   |
+| -------------        |-------------  |
+| data                 | a matrix of EEG sample values arranged row x column as electrode x time. |
+| data_length_sec      | the time duration of each data row      |
+| sampling_frequency   | the number of data samples representing 1 second of EEG data.  |
+| channels             | a list of electrode names corresponding to the rows in the data field |
+| sequence             | the index of the data segment within the one hour series of clips. For example, preictal_segment_6.mat has a sequence number of 6, and represents the iEEG data from 50 to 60 minutes into the preictal data. |
+
+### Data Files
 
 * preictal_segment_n.mat - the nth preictal training data segment
 * interictal_segment_n.mat - the nth non-seizure training data segment
