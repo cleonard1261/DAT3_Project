@@ -7,13 +7,10 @@ It's not possible to accurately classify preictal brain states in dogs and human
 ## Alternative Hypothesis
 The preictal brain state in dogs and humans does exist and can be accurately classified with naturally occurring epilepsy.
 
-## Background
+## Background: [Kaggle Competition - Seizure Prediction Challenge](http://www.kaggle.com/c/seizure-prediction)
 Seizure forecasting systems have the potential to help patients with epilepsy lead more normal lives. In order for EEG-based seizure forecasting systems to work effectively, computational algorithms must reliably identify periods of increased probability of seizure occurrence. If these seizure-permissive brain states can be identified, devices designed to warn patients of impeding seizures would be possible. Patients could avoid potentially dangerous activities like driving or swimming, and medications could be administered only when needed to prevent impending seizures, reducing overall side effects.
 
 There is emerging evidence that the temporal dynamics of brain activity can be classified into 4 states: Interictal (between seizures, or baseline), Preictal (prior to seizure), Ictal (seizure), and Post-ictal (after seizures). Seizure forecasting requires the ability to reliably identify a preictal state that can be differentiated from the interictal, ictal, and postictal state. The primary challenge in seizure forecasting is differentiating between the preictal and interictal states.
-
-## Kaggle Link
-[Kaggle - Seizure Prediction Challenge](http://www.kaggle.com/c/seizure-prediction)
 
 
 ## Data as described @ Kaggle
