@@ -81,7 +81,7 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 
 ## Plan
 * Create 5 Dog tables and 2 Patient tables in Postgres Database.
-* Load tables with preictal and interictal data.
+* Load tables with preictal and interictal data for 5 dogs and 2 humans.
 * Add ictal_ind flag to records where ictal_ind = 1 if record comes from preictal file else 0
 * Classification Algorithms
   * Logistic Regression
