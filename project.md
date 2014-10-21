@@ -75,9 +75,11 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 ```
 
 
-
-
 ## Data Issues
+* Data is in matlab '.mat' files. 
+* scipy.io.loadmat() creates a dict with np.ndarrays inside. 
+ * Need to go down many levels to get to data
+ * Preictal and Interictal data needs to be Transposed before being loaded to tables.
 
 ## Plan
 * Create 5 Dog tables and 2 Patient tables in Postgres Database.
