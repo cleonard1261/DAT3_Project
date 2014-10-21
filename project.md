@@ -79,5 +79,10 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 
 ## Data Issues
 
+## Plan
+* Create 5 Dog tables and 2 Patient tables.
+* Load tables with preictal and interictal data.
+* Add ictal_ind flag to records where ictal_ind = 1 if record comes from preictal file else 0
+
 
 
