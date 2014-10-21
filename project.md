@@ -87,7 +87,8 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 ## Data Questions
 1. Why negative values?
 2. Are the values just net change values from the previous measurement?
-3. 
+3. Should data show only absolute values?
+4. Does a negative change (assuming these are change values) mean something different than a positive change?
 
 ## Plan
 * Create 5 Dog tables and 2 Patient tables in Postgres Database.
