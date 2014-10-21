@@ -13,7 +13,7 @@ Seizure forecasting systems have the potential to help patients with epilepsy le
 There is emerging evidence that the temporal dynamics of brain activity can be classified into 4 states: Interictal (between seizures, or baseline), Preictal (prior to seizure), Ictal (seizure), and Post-ictal (after seizures). Seizure forecasting requires the ability to reliably identify a preictal state that can be differentiated from the interictal, ictal, and postictal state. The primary challenge in seizure forecasting is differentiating between the preictal and interictal states.
 
 ## Reason for choosing this project
-Wasn't having much luck coming up with a project of my own, so I looked at what was going on at Kaggle. Of all the active Kaggle competitions, this one seemed the most interesting to me. The idea of using Data Science to predict an epileptic seizure, and possibly giving people suffering from epilepsy a chance to alleviate the extent of the seizure, seems both noble and worthwile.
+Wasn't having much luck coming up with a project of my own, so I looked at what was going on at Kaggle. Of all the active Kaggle competitions, this one seemed the most interesting to me. The idea of using Data Science to predict an epileptic seizure, and possibly giving people suffering from epilepsy a chance to alleviate the extent of the seizure, seems both noble and worthwhile.
 
 ## Data as described @ Kaggle
 
