@@ -80,6 +80,8 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 * scipy.io.loadmat() creates a dict with np.ndarrays inside. 
  * Need to go down many levels to get to data
  * Preictal and Interictal data needs to be Transposed before being loaded to tables.
+ * Still researching current format of data.
+ * Data may need to go through some transformations before being used in ML Algorithms.
 
 ## Plan
 * Create 5 Dog tables and 2 Patient tables in Postgres Database.
