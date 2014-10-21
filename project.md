@@ -1,8 +1,11 @@
 # Course Project -- American Epilepsy Society Seizure Prediction Challenge
 
 
-## Question
-The goal of the competition is to demonstrate the existence and accurate classification of the preictal brain state in dogs and humans with naturally occurring epilepsy.
+## Null Hypothesis
+It's not possible to accurately classify preictal brain states in dogs and humans.
+
+## Alternative Hypothesis
+The preictal brain state in dogs and humans does exist and can be accurately classification of t with naturally occurring epilepsy.
 
 ## Background
 Seizure forecasting systems have the potential to help patients with epilepsy lead more normal lives. In order for EEG-based seizure forecasting systems to work effectively, computational algorithms must reliably identify periods of increased probability of seizure occurrence. If these seizure-permissive brain states can be identified, devices designed to warn patients of impeding seizures would be possible. Patients could avoid potentially dangerous activities like driving or swimming, and medications could be administered only when needed to prevent impending seizures, reducing overall side effects.
