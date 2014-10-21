@@ -78,10 +78,16 @@ NOTE: where n goes from 0 to N  ==> N is the total number of data segments
 ## Data Issues
 * Data is in matlab '.mat' files. 
 * scipy.io.loadmat() creates a dict with np.ndarrays inside. 
- * Need to go down many levels to get to data
- * Preictal and Interictal data needs to be Transposed before being loaded to tables.
- * Still researching current format of data.
- * Data may need to go through some transformations before being used in ML Algorithms.
+* Need to go down many levels to get to data
+* Preictal and Interictal data needs to be Transposed before being loaded to tables.
+* Still researching current format of data.
+* Data may need to go through some transformations before being used in ML Algorithms.
+* Cursory look at data shows values are positive and negative integers between 1 and 50. 
+ 
+## Data Questions
+1. Why negative values?
+2. Are the values just net change values from the previous measurement?
+3. 
 
 ## Plan
 * Create 5 Dog tables and 2 Patient tables in Postgres Database.
